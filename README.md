@@ -6,4 +6,4 @@ Using this tutorial: http://code.tutsplus.com/tutorials/setting-up-continuous-in
 
 Be careful:
 
-  the node command is nodejs in Ubuntu
+  1 - the node command is nodejs in Ubuntu
